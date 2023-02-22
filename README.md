@@ -76,28 +76,28 @@
 
 <details><summary>LAPD Liveries</summary>
 
-|  LAPD Vehicles      |    Supported  |
-|---------------|---------------|
-| 2011 CVPI     |       ✔️     |
-| 2014 Tahoe    |       ✔️     |
-| 2014 Charger  |       ✔️      |
-| 2018 Charger  |       ✔️     |
-| 2018 Taurus   |       ✔️     |
-| 2020 Explorer |       ✔️      |
+|  LAPD Vehicles  |    Supported  |          Livery Status           |
+| :-------------: |   :---------: |   :---------------------------:  |
+| 2011 CVPI       |       ✔️     |   ⏲ Completed [Awaiting Update] |
+| 2014 Tahoe      |       ✔️     |   ⏲ Completed [Awaiting Update] |
+| 2014 Charger    |       ✔️     |   ⏲ Completed [Awaiting Update] |
+| 2018 Charger    |       ✔️     |   ⏲ Completed [Awaiting Update] |
+| 2018 Taurus     |       ✔️     |   ⏲ Completed [Awaiting Update] |
+| 2020 Explorer   |       ✔️     |   ⏲ Completed [Awaiting Update] |
 
 </details>
 
 <details><summary>LSSD Liveries</summary>
 
-|  LSSD Vehicles      |    Supported  |
-|---------------|---------------|
-| 2011 CVPI     |       ❌     |
-| 2014 Charger    |       ✔️     |
-| 2018 Taurus  |       ❌      |
-| 2018 Charger  |       ❌     |
-| 2018 Durango   |       ❌     |
-| 2020 Explorer |       ❌      |
-| 2020 Tahoe |       ✔️      |
+|  LSSD Vehicles  |    Supported  |          Livery Status            |
+| :-------------: |   :---------: |  :----------------------------:   |
+| 2011 CVPI       |       ❌      |       🔨 Under Development       |
+| 2014 Charger    |       ✔️      |   ⏲ Completed [Awaiting Update] |
+| 2018 Taurus     |       ❌      |       🔨 Under Development       |
+| 2018 Charger    |       ❌      |       🔨 Under Development       |
+| 2018 Durango    |       ❌      |       🔨 Under Development       |
+| 2020 Explorer   |       ❌      |       🔨 Under Development       |
+| 2020 Tahoe      |       ✔️      |   ⏲ Completed [Awaiting Update] |
 
 </details>
 
@@ -129,9 +129,9 @@
 
 ### How to install the modding DLC:
 1. Dowload the zipped file from GTA5Mods.com.
-2. Open the zipped file (Recommend using [Winrar]() as it makes opening these easier.)
+2. Open the zipped file (Recommend using [Winrar](https://www.win-rar.com/predownload.html?&L=0) as it makes opening these easier.)
 3. Open up [OpenIV](https://openiv.com/) and turn on edit mode (Image on where it is located shown below to those that can't find it)
-
+![image](https://user-images.githubusercontent.com/77021072/220744556-52e6e6eb-e8a9-4f62-b9e6-4c1cef5a59c4.png)
 4. Drag the Modding.oiv file into OpenIV, this will open the package installer via openiv.
 5. Click Install > Mods > Install (**ALWAYS INSTALL MODS INTO YOUR MODS FOLDER! NEVER YOUR ORIGINAL GAME FILES**)
 6. Navigate to this path: ```Mods > > update > x64 > dlcpacks > MODDING```
