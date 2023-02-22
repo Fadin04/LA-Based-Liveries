@@ -24,6 +24,7 @@
 
 </details>
 
+
 <details><summary>LSSD Upcoming Releases</summary>
 
 * [ ] All vehicles in the pack skinned to support LSSD Liveries.
@@ -67,6 +68,8 @@
 
 </details>
 
+* ***
+
 # Livery Information
 
 <details><summary>Liveries Included / Supported</summary>
@@ -100,6 +103,7 @@
 
 </details>
 
+* ***
 
 # Important Notice - Release V1.0.5 and lower:
 
@@ -122,6 +126,7 @@
 # How to Install everything:
 * Starting off, you would want to probably use a MODDING DLC package which you can find [here](https://www.gta5-mods.com/misc/modding-dlc-pack-v), but this would allow you to center all modded vehicles and weapons into 1 area instead of using differnet packs created by GTA 5.
 
+
 ### How to install the modding DLC:
 1. Dowload the zipped file from GTA5Mods.com.
 2. Open the zipped file (Recommend using [Winrar]() as it makes opening these easier.)
@@ -137,6 +142,8 @@
 * You can find the WEAPONS path here:
 ``Mods > update > x64 > dlcpacks > MODDING > dlc.rpf > x64 > models > cdimages``
 ``v\mods\update\x64\dlcpacks\MODDING\dlc.rpf\x64\models\cdimages\``
+
+* ***
 
 ### How to install vehicles included:
 
@@ -195,6 +202,8 @@ Anything that is related the vehicle 20tahoerb you want to change to say sheriff
 </details>
 
 </details>
+
+* ***
 
 ### How to install the addon version of the LSSD vehicle pack - Created by Allen Development:
 
