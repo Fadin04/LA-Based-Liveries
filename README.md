@@ -41,7 +41,7 @@
 
 <details><summary>General Upcoming Releases</summary>
 
-* Once the liveries are completed, there will also be a SAN ANDREAS version of the LAPD liveries that are being created, this way anyone that wants to use LA based liveries but keep it San Andreas can do that too.
+* Once the liveries are completed, there will also be a SAN ANDREAS version of the LA-Based liveries that are being created, this way anyone that wants to use LA based liveries but keep it San Andreas can do that too.
 * The liveries will already be placed onto the vehicles supplied in the pack, however, links to the original vehicle pack will also be provided along side 2 folders for the templates + liveries.png files used on the pre-made vehicles.
 
 </details>
@@ -134,14 +134,14 @@
 
 4. Drag the Modding.oiv file into OpenIV, this will open the package installer via openiv.
 5. Click Install > Mods > Install (**ALWAYS INSTALL MODS INTO YOUR MODS FOLDER! NEVER YOUR ORIGINAL GAME FILES**)
-6. Navigate to this path: ``Mods > > update > x64 > dlcpacks > MODDING``
+6. Navigate to this path: ```Mods > > update > x64 > dlcpacks > MODDING```
 * You can find the VEHICLES path here: 
-``Mods > updates > x64 > dlcpacks > MODDING > dlc.rpf > levels > gta5 > vehicles > vehicles.rpf``
-``V\mods\update\x64\dlcpacks\MODDING\dlc.rpf\x64\levels\gta5\vehicles\vehicles.rpf\``
+```Mods > updates > x64 > dlcpacks > MODDING > dlc.rpf > levels > gta5 > vehicles > vehicles.rpf```
+```V\mods\update\x64\dlcpacks\MODDING\dlc.rpf\x64\levels\gta5\vehicles\vehicles.rpf\```
 
 * You can find the WEAPONS path here:
-``Mods > update > x64 > dlcpacks > MODDING > dlc.rpf > x64 > models > cdimages``
-``v\mods\update\x64\dlcpacks\MODDING\dlc.rpf\x64\models\cdimages\``
+```Mods > update > x64 > dlcpacks > MODDING > dlc.rpf > x64 > models > cdimages```
+```v\mods\update\x64\dlcpacks\MODDING\dlc.rpf\x64\models\cdimages\```
 
 * ***
 
