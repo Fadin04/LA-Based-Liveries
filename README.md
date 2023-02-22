@@ -11,31 +11,46 @@
 
 <details><summary>LAPD Upcoming Releases / Plans</summary>
 
-* [ ] Vehicle pack switch (Removing the support for Ripples legacy pack.
-* [ ] Liveries redone to update quality
-* [X] Finding a new vehicle pack to replace LAPD Current. 
-* [ ] 2011 CVPI Livery Creation
-* [ ] 2014 Charger Livery Creation
-* [ ] 2018 Charger Livery Creation
-* [ ] 2018 Taurus Livery Creation
-* [ ] 2018 Durango Livery Creation
-* [ ] 2020 Explorer Livery Creation
-* [ ] 2020 Tahoe Livery Creation
+* ❌ Vehicle pack switch (Removing the support for Ripples legacy pack.
+* ❌ Liveries redone to update quality
+* ✅ Finding a new vehicle pack to replace LAPD Current. 
+* ❌ 2011 CVPI Livery Creation
+* ❌ 2014 Charger Livery Creation
+* ❌ 2018 Charger Livery Creation
+* ❌ 2018 Taurus Livery Creation
+* ❌ 2018 Durango Livery Creation
+* ❌ 2020 Explorer Livery Creation
+* ❌ 2020 Tahoe Livery Creation
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%34faff&size=12&vCenter=true&height=19&lines=❓+Emoji+Key...+What+Do+The+Emojis+Mean?">
+
+|   Emoji  |     Meaning     |
+| :------: | :-------------: |
+|    ❌   |    Not Finished  |
+|    ✅   |     Finished     |
+
 
 </details>
 
 
 <details><summary>LSSD Upcoming Releases</summary>
 
-* [ ] All vehicles in the pack skinned to support LSSD Liveries.
-* [ ] Redo the current vehicles to up the quality + desgin of the liveries.
-* [ ] 2011 CVPI Livery Creation
-* [X] 2014 Charger Livery Creation
-* [ ] 2018 Charger Livery Creation
-* [ ] 2018 Taurus Livery Creation
-* [ ] 2018 Durango Livery Creation
-* [ ] 2020 Explorer Livery Creation
-* [X] 2020 Tahoe Livery Creation
+* ❌ All vehicles in the pack skinned to support LSSD Liveries.
+* ❌ Redo the current vehicles to up the quality + desgin of the liveries.
+* ❌ 2011 CVPI Livery Creation
+* ✅ 2014 Charger Livery Creation
+* ❌ 2018 Charger Livery Creation
+* ❌ 2018 Taurus Livery Creation
+* ❌ 2018 Durango Livery Creation
+* ❌ 2020 Explorer Livery Creation
+* ✅ 2020 Tahoe Livery Creation
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%34faff&size=12&vCenter=true&height=19&lines=❓+Emoji+Key...+What+Do+The+Emojis+Mean?">
+
+|   Emoji  |     Meaning     |
+| :------: | :-------------: |
+|    ❌   |    Not Finished  |
+|    ✅   |     Finished     |
 
 </details>
 
@@ -134,12 +149,14 @@
 ![image](https://user-images.githubusercontent.com/77021072/220744556-52e6e6eb-e8a9-4f62-b9e6-4c1cef5a59c4.png)
 4. Drag the Modding.oiv file into OpenIV, this will open the package installer via openiv.
 5. Click Install > Mods > Install (**ALWAYS INSTALL MODS INTO YOUR MODS FOLDER! NEVER YOUR ORIGINAL GAME FILES**)
-6. Navigate to this path: ```Mods > > update > x64 > dlcpacks > MODDING```
+6. Navigate to this path: ``Mods > > update > x64 > dlcpacks > MODDING``
 * You can find the VEHICLES path here: 
+
 ```Mods > updates > x64 > dlcpacks > MODDING > dlc.rpf > levels > gta5 > vehicles > vehicles.rpf```
 ```V\mods\update\x64\dlcpacks\MODDING\dlc.rpf\x64\levels\gta5\vehicles\vehicles.rpf\```
 
 * You can find the WEAPONS path here:
+
 ```Mods > update > x64 > dlcpacks > MODDING > dlc.rpf > x64 > models > cdimages```
 ```v\mods\update\x64\dlcpacks\MODDING\dlc.rpf\x64\models\cdimages\```
 
